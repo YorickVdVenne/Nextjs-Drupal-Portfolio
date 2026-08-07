@@ -40,11 +40,6 @@
                     "label": "CodePen",
                     "icon": "codepen",
                     "url": "https://codepen.io/YVenne"
-                },
-                {
-                    "label": "Miro",
-                    "icon": "miro",
-                    "url": "https://miro.com/app/board/uXjVMjoJJsQ=/?share_link_id=697022632082"
                 }
             ],
             "actionButton": {
@@ -69,11 +64,6 @@
                     "label": "CodePen",
                     "icon": "codepen",
                     "url": "https://codepen.io/YVenne"
-                },
-                {
-                    "label": "Miro",
-                    "icon": "miro",
-                    "url": "https://miro.com/app/board/uXjVMjoJJsQ=/?share_link_id=697022632082"
                 }
             ],
             "email": {
