@@ -2,6 +2,9 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "22.x"
+  },
   "scripts": {
     "dev": "run-p -l dev:*",
     "dev:next": "next dev",
@@ -9,6 +12,7 @@
     "build": "run-p -l build:*",
     "build:next": "next build",
     "build:storybook": "build-storybook",
+    "vercel-build": "next build",
     "start": "next start",
     "lint": "run-s -l lint:*",
     "lint:standard": "ts-standard --fix",
